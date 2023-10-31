@@ -102,6 +102,7 @@ const Cart = () => {
             backgroundColor: 'green'
         },
     })
+    //testing
 
     const storeItems = async (value) => {
         try {
